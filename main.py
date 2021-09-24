@@ -10,7 +10,6 @@ def test_vals():
 
     while i < 10000:
         kv.put("lol", "kek")
-        # print(kv.get("lol"))
         i += 1
 
 
